@@ -1,6 +1,6 @@
 /*
-1) Ler um número inteiro e calcular e apresentar o seu módulo ou valor absoluto (número
-sem sinal), isto é, se o número é negativo apresentá-lo como positivo.
+1) Ler um nÃºmero inteiro e calcular e apresentar o seu mÃ³dulo ou valor absoluto (nÃºmero
+sem sinal), isto Ã©, se o nÃºmero Ã© negativo apresentÃ¡-lo como positivo.
 */
 
 #include <stdio.h>
@@ -16,7 +16,7 @@ int main()
         printf("\nO modulo de %d eh: %d", num, num*-1);
     }
     else{
-        printf("\nO modulode de %d eh: %d", num, num);
+        printf("\nO modulo de %d eh: %d", num, num);
 
     }
 
